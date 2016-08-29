@@ -6,13 +6,13 @@
 
 ![Webpack](./assets/webpack-module-bundler.png)
 
-### About
+## About
 
 > This [Webpack Tutorial](https://github.com/AriaFallah/WebpackTutorial) is written by [ArialFallah](https://github.com/AriaFallah/).  
 
 > Chinese Traditional by [neighborhood999/WebpackTutorial](https://github.com/neighborhood999/WebpackTutorial)
 
-### Motivation
+## Motivation
 
 [Webpack Tutorial](https://github.com/AriaFallah/WebpackTutorial) 透過深入淺出的方式，一步一步教你如何使用 [Webpack](https://webpack.github.io/)。  
 
@@ -26,6 +26,11 @@
 
 Because on GitHub read this is not convenience, so I decide made this tutorial to gitbook for convenient.
 
+## Develop
+
+`$ git clone https://github.com/neighborhood999/webpack-tutorial-gitbook.git`  
+`$ make install`  
+`$ make review`
 
 ## LICENSE
 
