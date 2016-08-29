@@ -14,5 +14,4 @@ git config user.name "neighborhood999"
 git config user.email "dean.leehom@gmail.com"
 git add .
 git commit -a -m "Auto-deploy by Travis CI"
-# git push --force --quiet "https://${GH_TOKEN}@github.com/graphql/graphql.github.io.git" master:master
 git push --force --quiet "https://${GH_TOKEN}@github.com/neighborhood999/webpack-tutorial-gitbook.git" gh-pages:gh-pages
