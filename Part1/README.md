@@ -100,7 +100,7 @@
 
 [範例一](https://github.com/neighborhood999/WebpackTutorial/tree/master/zh-TW/part1/example1)
 
-![Official Dependency Tree](http://i.imgur.com/YU4xBPQ.png)
+![Official Dependency Tree](../assets/webpack-module-bundler.png)
 
 Webpack 簡稱為模組整合工具。如果你想要深入的話，可以拜訪 [JavaScript Modules: A Beginner’s Guide](https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.jw1txw6uh) 和 [JavaScript Modules Part 2: Module Bundling](https://medium.com/@preethikasireddy/javascript-modules-part-2-module-bundling-5020383cf306#.lfnspler2) 這兩篇優秀的解釋文章：
 
@@ -109,7 +109,7 @@ Webpack 簡稱為模組整合工具。如果你想要深入的話，可以拜訪
 
 這裡是一個簡單的範例：
 
-![Dependency Tree](http://i.imgur.com/dSghwwL.png)
+![Dependency Tree](../assets/dependency-tree.png)
 
 根據這樣的情況，你可以有這樣的目錄：
 

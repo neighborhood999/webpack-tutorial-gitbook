@@ -1,6 +1,6 @@
 # 範例一 - Bundle 和 Loader
 
-![Official Dependency Tree](http://i.imgur.com/YU4xBPQ.png)
+![Official Dependency Tree](../assets/webpack-module-bundler.png)
 
 Webpack 簡稱為模組的整合工具。如果你想要深入的話，可以拜訪「modules」和「module bundling definitely」這兩篇優秀的解釋文章：
 [JavaScript Modules: A Beginner’s Guide](https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.jw1txw6uh)
@@ -10,7 +10,7 @@ Webpack 簡稱為模組的整合工具。如果你想要深入的話，可以拜
 
 這裡是一個簡單的範例：
 
-![Dependency Tree](http://i.imgur.com/dSghwwL.png)
+![Dependency Tree](../assets/dependency-tree.png)
 
 根據這樣的情況，你可以有這樣的目錄：
 
