@@ -14,5 +14,9 @@ review:
 update:
 	git pull origin master --rebase
 
+deploy:
+	gitbook install
+	gitbook build -g neighborhood999/webapck-tutorial-gitbook
+
 clean:
 	rm -rf _book/ node_modules/
