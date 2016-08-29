@@ -10,7 +10,8 @@ cd _book
 
 git init
 git checkout -b gh-pages
-git config user.name "Travis CI"
+git config user.name "neighborhood999"
+git config user.email "dean.leehom@gmail.com"
 git add .
 git commit -a -m "Auto-deploy by Travis CI"
 # git push --force --quiet "https://${GH_TOKEN}@github.com/graphql/graphql.github.io.git" master:master

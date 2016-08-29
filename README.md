@@ -1,5 +1,6 @@
 # Webpack Tutorial 繁體中文 Gitbook
 
+[![Build Status](https://img.shields.io/travis/neighborhood999/webpack-tutorial-gitbook.svg?style=flat-square)](https://travis-ci.org/neighborhood999/webpack-tutorial-gitbook)
 ![](https://img.shields.io/badge/made%20with-%E2%9D%A4-ff69b4.svg?style=flat-square)
 
 ![Webpack](./assets/webpack-module-bundler.png)
