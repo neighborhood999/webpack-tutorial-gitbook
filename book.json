@@ -1,0 +1,17 @@
+{
+  "title": "Webpack Tutorial 繁體中文",
+  "author": "Peng Jie <dean.leehom@gmail.com>",
+  "gitbook": "3.2.0",
+  "plugins": ["prism", "-highlight", "github", "sharing", "advanced-emoji"],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/neighborhood999/WebpackTutorial-Gitbook"
+    },
+    "sharing": {
+      "facebook": true,
+      "twitter": true,
+      "google": false,
+      "weibo": false
+    }
+  }
+}
