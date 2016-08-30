@@ -29,8 +29,12 @@ Because on GitHub read this is not convenience, so I decide made this tutorial t
 ## Develop
 
 `$ git clone https://github.com/neighborhood999/webpack-tutorial-gitbook.git`  
+
+`$ npm install gitbook-cli -g`  
+
 `$ make install`  
-`$ make review`
+
+`$ make review` or `$ make build`
 
 ## LICENSE
 

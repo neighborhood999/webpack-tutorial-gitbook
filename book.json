@@ -5,7 +5,7 @@
   "plugins": ["prism", "-highlight", "github", "sharing", "advanced-emoji"],
   "pluginsConfig": {
     "github": {
-      "url": "https://github.com/neighborhood999/WebpackTutorial-Gitbook"
+      "url": "https://github.com/neighborhood999/webpack-tutorial-gitbook"
     },
     "sharing": {
       "facebook": true,
