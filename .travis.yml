@@ -1,0 +1,13 @@
+env:
+  global:
+    secure: TNjDiNqpwhkOHg1N3b6q29kog4hrL66lm47nG57aXbVvFGMfv0AsQ1qbeyxyQFH/naxUGrLQMeMpgBkkL5/g8yTXMtXmOC9gzK3TSkVnfBxAll2e5CU4BH43xx7D3l3aIveC71cH/rW+enhqTF+2RljUtUZpols16ftrhoRg1yga9f8m3Vy/WX6seW6pu4o+VWqMud9B4ULcBFIexzqISRTkzTh43EGaY/ko4N9LUGXwxHTt4JuolnYqeD3J+ZAwpM9AKdUJ1Rf+qiGz3KkUd0BpXTh9xmZIeCew5CsUPOVLZmk7HB1nat/In51KBjL8xjpsYq5JIP/kEZ9J/x3FxJ+R/y27PEZat94xD+ND5UJJVBQePu6musMaGZYqdeELu1KAkhyidWv/pVqaQWTUxbHP37N/RZLokNNGOHp9VksHsgbe/fCnKkZhj2sduT5j63QpsP5nEnrHocu2r59Rdjph7CX0+bSdvKaxiha9gSSqUXm74wWsJerSNf2MsY79Vg1HE+JYWM482MgT63wIYV9nfY8B+pqvAI9FkSJhJni4VNfl7JFy3kF1mye7oOqfLm/+5N2jq2yJYGcudMjMFNDRNbXRMUx+GE3Hoy8BWBORIhTjCHCa1WniRiFZ4yffOFQSv2b0UbAtOsX6AOq/+xG8+vJxwJ/GbioMVq2e5uo=
+
+language: node_js
+node_js:
+  - '6'
+
+script:
+  npm install gitbook-cli -g
+
+after_success:
+  - bash deploy.sh
